@@ -1,6 +1,6 @@
 yay -S --noconfirm --needed \
   wget curl unzip inetutils impala \
-  fd eza fzf ripgrep zoxide bat \
+  fd fzf ripgrep bat \
   wl-clipboard fastfetch btop \
   man tldr less whois plocate bash-completion \
   alacritty
